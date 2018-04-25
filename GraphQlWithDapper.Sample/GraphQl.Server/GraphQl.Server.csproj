@@ -32,7 +32,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\GraphQl.Sample\GarphQl.Core\GarphQl.Core.csproj" />
+    <ProjectReference Include="..\GarphQl.Core\GarphQl.Core.csproj" />
   </ItemGroup>
 
 </Project>

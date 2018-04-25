@@ -12941,8 +12941,8 @@
     },
     "GarphQl.Core/1.0.0": {
       "type": "project",
-      "path": "../../../GraphQl.Sample/GarphQl.Core/GarphQl.Core.csproj",
-      "msbuildProject": "../../../GraphQl.Sample/GarphQl.Core/GarphQl.Core.csproj"
+      "path": "../GarphQl.Core/GarphQl.Core.csproj",
+      "msbuildProject": "../GarphQl.Core/GarphQl.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12987,8 +12987,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\Personal\\sandeepbs404\\GraphQl.Sample\\GarphQl.Core\\GarphQl.Core.csproj": {
-              "projectPath": "F:\\Personal\\sandeepbs404\\GraphQl.Sample\\GarphQl.Core\\GarphQl.Core.csproj"
+            "F:\\Personal\\sandeepbs404\\GraphQlWithDapper.Sample.git\\GraphQlWithDapper.Sample\\GarphQl.Core\\GarphQl.Core.csproj": {
+              "projectPath": "F:\\Personal\\sandeepbs404\\GraphQlWithDapper.Sample.git\\GraphQlWithDapper.Sample\\GarphQl.Core\\GarphQl.Core.csproj"
             }
           }
         }
