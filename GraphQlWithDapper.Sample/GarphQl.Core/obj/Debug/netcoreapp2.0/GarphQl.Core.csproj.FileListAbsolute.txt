@@ -1,8 +1,0 @@
-F:\Personal\sandeepbs404\GraphQl.Sample\GarphQl.Core\bin\Debug\netcoreapp2.0\GarphQl.Core.deps.json
-F:\Personal\sandeepbs404\GraphQl.Sample\GarphQl.Core\bin\Debug\netcoreapp2.0\GarphQl.Core.dll
-F:\Personal\sandeepbs404\GraphQl.Sample\GarphQl.Core\bin\Debug\netcoreapp2.0\GarphQl.Core.pdb
-F:\Personal\sandeepbs404\GraphQl.Sample\GarphQl.Core\obj\Debug\netcoreapp2.0\GarphQl.Core.csproj.CoreCompileInputs.cache
-F:\Personal\sandeepbs404\GraphQl.Sample\GarphQl.Core\obj\Debug\netcoreapp2.0\GarphQl.Core.AssemblyInfoInputs.cache
-F:\Personal\sandeepbs404\GraphQl.Sample\GarphQl.Core\obj\Debug\netcoreapp2.0\GarphQl.Core.AssemblyInfo.cs
-F:\Personal\sandeepbs404\GraphQl.Sample\GarphQl.Core\obj\Debug\netcoreapp2.0\GarphQl.Core.dll
-F:\Personal\sandeepbs404\GraphQl.Sample\GarphQl.Core\obj\Debug\netcoreapp2.0\GarphQl.Core.pdb

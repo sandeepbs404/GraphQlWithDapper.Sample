@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQl.Server", "GraphQl.Server\GraphQl.Server.csproj", "{D41EA92E-B994-4319-A6E2-C75AFC724D2F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarphQl.Core", "..\..\GraphQl.Sample\GarphQl.Core\GarphQl.Core.csproj", "{7932F6E1-604C-46B2-BFC6-CF92BA666491}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarphQl.Core", "GarphQl.Core\GarphQl.Core.csproj", "{7932F6E1-604C-46B2-BFC6-CF92BA666491}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
